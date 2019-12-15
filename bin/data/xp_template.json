@@ -112,7 +112,7 @@
         }
       },
       "Global": {
-        "Color": "ffffffff",
+        "Color": "e6c7c5",
         "Show": true,
         "FontSize": 50,
         "Pos": {
@@ -121,7 +121,7 @@
         }
       },
       "Guild": {
-        "Color": "ffffffff",
+        "Color": "e6c7c5",
         "Show": true,
         "FontSize": 50,
         "Pos": {
@@ -130,7 +130,7 @@
         }
       },
       "Awarded": {
-        "Color": "ffffffff",
+        "Color": "e6c7c5",
         "Show": true,
         "FontSize": 25,
         "Pos": {
